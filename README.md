@@ -10,8 +10,8 @@ This blog use a custom contact form backend and database hosted on [Deta](https:
 
 ## How to use this:
 ```bash
-$ git clone https://github.com/cgmark101/blog.git
-$ cd blog
+$ git clone https://github.com/cgmark101/blog2.git
+$ cd blog2
 $ virtualenv .venv
 $ pip install -r requirements.txt
 $ python main.py
